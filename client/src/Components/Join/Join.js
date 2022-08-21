@@ -21,7 +21,7 @@ const Join = (props) => {
   } = useContext(SocketContext);
   // const {user,isAuthenticated}=useAuth0();
   const myPreviewVideo = useRef();
-  // const [name,setName] = useState(user.name);
+
   useEffect(() => {
     if (!newMeet && meetingCode.length === 0) {
       props.history.push('/');

@@ -1,9 +1,12 @@
 {
   "name": "virtual-meet-and-code",
+  "homepage": "https://YashSinha490.github.io/virtual-meet-and-code",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "node server.js",
     "server": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
