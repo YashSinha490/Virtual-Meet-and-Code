@@ -131,7 +131,7 @@ const ContextProvider = ({ children }) => {
           type: 'both',
           mediaStatus: [myMicStatus, myVideoStatus],
         },
-        userToUpdate: id,
+        userToUpdate:id,
       });
       setOtherUserName(userName);
       setCallAccepted(true);
