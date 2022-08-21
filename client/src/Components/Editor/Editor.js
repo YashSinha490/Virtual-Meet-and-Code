@@ -69,7 +69,7 @@ const Editor = () => {
     };
   }, [socket, quill]);
 
-  const editorRef = useCallback((editorWrapper) => {
+  const editorRefFunc = useCallback((editorWrapper) => {
     if (editorWrapper === null) return;
 
     editorWrapper.innerHTML = '';
@@ -91,7 +91,7 @@ const Editor = () => {
 
   return (
     <>
-      <div className='editor slide-left' ref={editorRef}></div>
+      <div className='editor slide-left' ref={editorRefFunc}></div>
     </>
   );
 };
