@@ -3,7 +3,7 @@ import { SocketContext } from '../../SocketContext';
 import './Messages.css';
 
 const Message = (props) => {
-  const { me } = useContext(SocketContext);
+  const { me} = useContext(SocketContext);
   
   return (
     <div

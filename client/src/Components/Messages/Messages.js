@@ -45,7 +45,7 @@ const Messages = () => {
       return;
     }
 
-    let tempMessage = { text: newMessage.trim(), user: me };
+    let tempMessage = {text: newMessage.trim(), user: me };
     socket.emit('send-message', {
       data: tempMessage,
       userToSend: otherUser,
