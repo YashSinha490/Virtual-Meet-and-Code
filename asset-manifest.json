@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/virtual-meet-and-code/static/css/main.340ed7ea.chunk.css",
+    "main.js": "/virtual-meet-and-code/static/js/main.41ffa887.chunk.js",
+    "main.js.map": "/virtual-meet-and-code/static/js/main.41ffa887.chunk.js.map",
+    "runtime-main.js": "/virtual-meet-and-code/static/js/runtime-main.24909498.js",
+    "runtime-main.js.map": "/virtual-meet-and-code/static/js/runtime-main.24909498.js.map",
+    "static/css/2.d8850847.chunk.css": "/virtual-meet-and-code/static/css/2.d8850847.chunk.css",
+    "static/js/2.acf9e81b.chunk.js": "/virtual-meet-and-code/static/js/2.acf9e81b.chunk.js",
+    "static/js/2.acf9e81b.chunk.js.map": "/virtual-meet-and-code/static/js/2.acf9e81b.chunk.js.map",
+    "static/js/3.1117b881.chunk.js": "/virtual-meet-and-code/static/js/3.1117b881.chunk.js",
+    "static/js/3.1117b881.chunk.js.map": "/virtual-meet-and-code/static/js/3.1117b881.chunk.js.map",
+    "static/js/4.f5767958.chunk.js": "/virtual-meet-and-code/static/js/4.f5767958.chunk.js",
+    "static/js/4.f5767958.chunk.js.map": "/virtual-meet-and-code/static/js/4.f5767958.chunk.js.map",
+    "static/js/5.d29ea672.chunk.js": "/virtual-meet-and-code/static/js/5.d29ea672.chunk.js",
+    "static/js/5.d29ea672.chunk.js.map": "/virtual-meet-and-code/static/js/5.d29ea672.chunk.js.map",
+    "index.html": "/virtual-meet-and-code/index.html",
+    "static/css/2.d8850847.chunk.css.map": "/virtual-meet-and-code/static/css/2.d8850847.chunk.css.map",
+    "static/css/main.340ed7ea.chunk.css.map": "/virtual-meet-and-code/static/css/main.340ed7ea.chunk.css.map",
+    "static/js/2.acf9e81b.chunk.js.LICENSE.txt": "/virtual-meet-and-code/static/js/2.acf9e81b.chunk.js.LICENSE.txt",
+    "static/js/3.1117b881.chunk.js.LICENSE.txt": "/virtual-meet-and-code/static/js/3.1117b881.chunk.js.LICENSE.txt",
+    "static/js/4.f5767958.chunk.js.LICENSE.txt": "/virtual-meet-and-code/static/js/4.f5767958.chunk.js.LICENSE.txt",
+    "static/js/5.d29ea672.chunk.js.LICENSE.txt": "/virtual-meet-and-code/static/js/5.d29ea672.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/virtual-meet-and-code/static/media/homebgimage.186d8408.png",
+    "static/media/spin1.86646140.gif": "/virtual-meet-and-code/static/media/spin1.86646140.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24909498.js",
+    "static/css/2.d8850847.chunk.css",
+    "static/js/2.acf9e81b.chunk.js",
+    "static/css/main.340ed7ea.chunk.css",
+    "static/js/main.41ffa887.chunk.js"
+  ]
+}
