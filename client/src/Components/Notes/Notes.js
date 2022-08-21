@@ -30,7 +30,7 @@ const Notes = () => {
     setAnchorEl(null);
   };
   const downLoadAsPdf = () => {
-    if (notes.trim().length == 0) {
+    if (notes.trim().length ==0) {
       message.error('Please write some text to download');
       return;
     }
