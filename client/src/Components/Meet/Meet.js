@@ -53,7 +53,7 @@ const Meet = (props) => {
     resize();
     window.addEventListener('resize', resize);
   }, []);
-  // console.log(me,otherUser)
+  console.log(me,otherUser)
 
   useEffect(() => {
     if (loading) {
