@@ -10,7 +10,7 @@ import { message } from 'antd';
 import Navbar from '../Navbar/Navbar';
 
 const Home = (props) => {
-  const paramsCode = props.location.search;
+  const paramsCode =props.location.search;
 
   const { meetingCode, setMeetingCode, setNewMeet } = useContext(SocketContext);
 
