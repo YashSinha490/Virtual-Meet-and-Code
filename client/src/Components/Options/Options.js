@@ -77,7 +77,7 @@ const Options = (props) => {
     } else {
       setOpen(false);
     }
-  }, [call, callEnded]);
+  }, [call,callEnded]);
   console.log(me);
   return (
     <>
